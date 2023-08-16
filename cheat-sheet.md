@@ -1,4 +1,7 @@
 # Advanced Threat Hunting Cheat Sheet
+#### Disclaimer
+The sample scripts are not supported under any Microsoft standard support program or service. 
+These scripts are provided AS IS without warranty of any kind.
 
 | Query Purpose | Query Content | Notes |
 |---|---|---|
